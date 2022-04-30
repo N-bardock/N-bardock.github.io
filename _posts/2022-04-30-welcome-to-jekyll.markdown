@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "안녕하세요 초보 개발자 버독입니다"
+title:  "안녕하세요 초보 개발자 버독입니다!"
 date:   2022-04-30 07:22:57 +0900
 categories: jekyll update
 ---
